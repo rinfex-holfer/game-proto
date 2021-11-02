@@ -1,0 +1,587 @@
+{
+	"textures": [
+		{
+			"image": "troll.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 428,
+				"h": 240
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "troll_throw_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "troll_strike_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 48,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 86,
+						"w": 48,
+						"h": 87
+					}
+				},
+				{
+					"filename": "troll_devoure_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 57,
+						"h": 74
+					},
+					"frame": {
+						"x": 56,
+						"y": 1,
+						"w": 57,
+						"h": 74
+					}
+				},
+				{
+					"filename": "troll_grapple_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 57,
+						"h": 74
+					},
+					"frame": {
+						"x": 115,
+						"y": 1,
+						"w": 57,
+						"h": 74
+					}
+				},
+				{
+					"filename": "troll_grapple_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 57,
+						"h": 74
+					},
+					"frame": {
+						"x": 174,
+						"y": 1,
+						"w": 57,
+						"h": 74
+					}
+				},
+				{
+					"filename": "troll_strike_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 55,
+						"h": 73
+					},
+					"frame": {
+						"x": 233,
+						"y": 1,
+						"w": 55,
+						"h": 73
+					}
+				},
+				{
+					"filename": "troll_throw_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 50,
+						"h": 73
+					},
+					"frame": {
+						"x": 290,
+						"y": 1,
+						"w": 50,
+						"h": 73
+					}
+				},
+				{
+					"filename": "troll_throw_stone_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 50,
+						"h": 73
+					},
+					"frame": {
+						"x": 342,
+						"y": 1,
+						"w": 50,
+						"h": 73
+					}
+				},
+				{
+					"filename": "troll_fall_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 23,
+						"w": 56,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 175,
+						"w": 56,
+						"h": 59
+					}
+				},
+				{
+					"filename": "troll_strike_down_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 45,
+						"h": 87
+					},
+					"frame": {
+						"x": 51,
+						"y": 86,
+						"w": 45,
+						"h": 87
+					}
+				},
+				{
+					"filename": "troll_throw_stone_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 48,
+						"h": 87
+					},
+					"frame": {
+						"x": 98,
+						"y": 77,
+						"w": 48,
+						"h": 87
+					}
+				},
+				{
+					"filename": "troll_throw_stone_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 45,
+						"h": 87
+					},
+					"frame": {
+						"x": 148,
+						"y": 77,
+						"w": 45,
+						"h": 87
+					}
+				},
+				{
+					"filename": "troll_block_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 9,
+						"w": 45,
+						"h": 80
+					},
+					"frame": {
+						"x": 195,
+						"y": 77,
+						"w": 45,
+						"h": 80
+					}
+				},
+				{
+					"filename": "troll_block_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 9,
+						"w": 45,
+						"h": 80
+					},
+					"frame": {
+						"x": 242,
+						"y": 76,
+						"w": 45,
+						"h": 80
+					}
+				},
+				{
+					"filename": "troll_damaged_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 48,
+						"h": 75
+					},
+					"frame": {
+						"x": 289,
+						"y": 76,
+						"w": 48,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_damaged_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 48,
+						"h": 75
+					},
+					"frame": {
+						"x": 339,
+						"y": 76,
+						"w": 48,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_walk_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 38,
+						"h": 75
+					},
+					"frame": {
+						"x": 389,
+						"y": 76,
+						"w": 38,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_strike_down_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 37,
+						"w": 46,
+						"h": 52
+					},
+					"frame": {
+						"x": 59,
+						"y": 175,
+						"w": 46,
+						"h": 52
+					}
+				},
+				{
+					"filename": "troll_fall_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 18,
+						"w": 43,
+						"h": 69
+					},
+					"frame": {
+						"x": 107,
+						"y": 166,
+						"w": 43,
+						"h": 69
+					}
+				},
+				{
+					"filename": "troll_throw_stone_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 37,
+						"w": 46,
+						"h": 52
+					},
+					"frame": {
+						"x": 152,
+						"y": 166,
+						"w": 46,
+						"h": 52
+					}
+				},
+				{
+					"filename": "troll_devoure_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 46,
+						"h": 75
+					},
+					"frame": {
+						"x": 200,
+						"y": 159,
+						"w": 46,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_idle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 14,
+						"w": 39,
+						"h": 75
+					},
+					"frame": {
+						"x": 248,
+						"y": 158,
+						"w": 39,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 14,
+						"w": 39,
+						"h": 75
+					},
+					"frame": {
+						"x": 289,
+						"y": 153,
+						"w": 39,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_walk_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 14,
+						"w": 39,
+						"h": 75
+					},
+					"frame": {
+						"x": 330,
+						"y": 153,
+						"w": 39,
+						"h": 75
+					}
+				},
+				{
+					"filename": "troll_dead_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 52,
+						"h": 28
+					},
+					"frame": {
+						"x": 371,
+						"y": 153,
+						"w": 52,
+						"h": 28
+					}
+				},
+				{
+					"filename": "troll_dead_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 52,
+						"h": 28
+					},
+					"frame": {
+						"x": 371,
+						"y": 183,
+						"w": 52,
+						"h": 28
+					}
+				},
+				{
+					"filename": "troll_unconscious_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 49,
+						"h": 26
+					},
+					"frame": {
+						"x": 371,
+						"y": 213,
+						"w": 49,
+						"h": 26
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3d4f9341704937c76e9105e86a789b4c:0b8de785250b6b17e29c6810f0fed95c:6a997b8fea3ff5b8053a1f04b0071f18$"
+	}
+}

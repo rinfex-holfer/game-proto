@@ -1,0 +1,503 @@
+{
+	"textures": [
+		{
+			"image": "pikeman.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 280,
+				"h": 251
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pikeman_block_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 43,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 43,
+						"h": 87
+					}
+				},
+				{
+					"filename": "pikeman_block_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 43,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 43,
+						"h": 87
+					}
+				},
+				{
+					"filename": "pikeman_walk_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 38,
+						"w": 54,
+						"h": 69
+					},
+					"frame": {
+						"x": 1,
+						"y": 179,
+						"w": 54,
+						"h": 69
+					}
+				},
+				{
+					"filename": "pikeman_walk_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 30,
+						"w": 42,
+						"h": 75
+					},
+					"frame": {
+						"x": 46,
+						"y": 1,
+						"w": 42,
+						"h": 75
+					}
+				},
+				{
+					"filename": "pikeman_idle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 31,
+						"w": 43,
+						"h": 74
+					},
+					"frame": {
+						"x": 46,
+						"y": 78,
+						"w": 43,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pikeman_idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 31,
+						"w": 43,
+						"h": 74
+					},
+					"frame": {
+						"x": 90,
+						"y": 1,
+						"w": 43,
+						"h": 74
+					}
+				},
+				{
+					"filename": "tornHead1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 21,
+						"h": 21
+					},
+					"frame": {
+						"x": 46,
+						"y": 154,
+						"w": 21,
+						"h": 21
+					}
+				},
+				{
+					"filename": "pikeman_scared_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 42,
+						"h": 73
+					},
+					"frame": {
+						"x": 57,
+						"y": 177,
+						"w": 42,
+						"h": 73
+					}
+				},
+				{
+					"filename": "pikeman_scared_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 42,
+						"h": 73
+					},
+					"frame": {
+						"x": 91,
+						"y": 77,
+						"w": 42,
+						"h": 73
+					}
+				},
+				{
+					"filename": "pikeman_damaged_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 36,
+						"w": 41,
+						"h": 69
+					},
+					"frame": {
+						"x": 101,
+						"y": 152,
+						"w": 41,
+						"h": 69
+					}
+				},
+				{
+					"filename": "pikeman_devoured_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 79,
+						"w": 47,
+						"h": 27
+					},
+					"frame": {
+						"x": 101,
+						"y": 223,
+						"w": 47,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pikeman_strike_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 39,
+						"w": 78,
+						"h": 66
+					},
+					"frame": {
+						"x": 150,
+						"y": 1,
+						"w": 78,
+						"h": 66
+					}
+				},
+				{
+					"filename": "pikeman_devoured_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 79,
+						"w": 47,
+						"h": 27
+					},
+					"frame": {
+						"x": 230,
+						"y": 1,
+						"w": 47,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pikeman_damaged_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 36,
+						"w": 41,
+						"h": 69
+					},
+					"frame": {
+						"x": 135,
+						"y": 69,
+						"w": 41,
+						"h": 69
+					}
+				},
+				{
+					"filename": "pikeman_strike_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 38,
+						"w": 71,
+						"h": 67
+					},
+					"frame": {
+						"x": 144,
+						"y": 140,
+						"w": 71,
+						"h": 67
+					}
+				},
+				{
+					"filename": "pikeman_fall_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 67,
+						"w": 33,
+						"h": 39
+					},
+					"frame": {
+						"x": 150,
+						"y": 209,
+						"w": 33,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pikeman_fall_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 41,
+						"w": 36,
+						"h": 65
+					},
+					"frame": {
+						"x": 178,
+						"y": 69,
+						"w": 36,
+						"h": 65
+					}
+				},
+				{
+					"filename": "pikeman_prisoner_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 69,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 217,
+						"y": 69,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "pikeman_prisoner_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 69,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 217,
+						"y": 125,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "pikeman_dead_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 79,
+						"w": 44,
+						"h": 27
+					},
+					"frame": {
+						"x": 230,
+						"y": 30,
+						"w": 44,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pikeman_dead_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 79,
+						"w": 44,
+						"h": 27
+					},
+					"frame": {
+						"x": 185,
+						"y": 209,
+						"w": 44,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pikeman_unconscious_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 81,
+						"w": 44,
+						"h": 25
+					},
+					"frame": {
+						"x": 217,
+						"y": 181,
+						"w": 44,
+						"h": 25
+					}
+				},
+				{
+					"filename": "pikeman_devouring_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 27,
+						"h": 42
+					},
+					"frame": {
+						"x": 231,
+						"y": 208,
+						"w": 27,
+						"h": 42
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2673d4dce0446092c714da43a683b344:a38a93419f98a1a54bccb90b74d7e3d1:0f6ef2410959a22ab82589487c58da45$"
+	}
+}

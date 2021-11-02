@@ -1,0 +1,503 @@
+{
+	"textures": [
+		{
+			"image": "shieldman.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 123,
+				"h": 625
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shieldman_strike_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 39,
+						"w": 78,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 78,
+						"h": 66
+					}
+				},
+				{
+					"filename": "shieldman_strike_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 4,
+						"w": 41,
+						"h": 101
+					},
+					"frame": {
+						"x": 81,
+						"y": 1,
+						"w": 41,
+						"h": 101
+					}
+				},
+				{
+					"filename": "shieldman_fall_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 44,
+						"w": 63,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 69,
+						"w": 63,
+						"h": 61
+					}
+				},
+				{
+					"filename": "shieldman_walk_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 33,
+						"w": 47,
+						"h": 72
+					},
+					"frame": {
+						"x": 66,
+						"y": 104,
+						"w": 47,
+						"h": 72
+					}
+				},
+				{
+					"filename": "shieldman_fall_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 48,
+						"w": 62,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 132,
+						"w": 62,
+						"h": 58
+					}
+				},
+				{
+					"filename": "shieldman_damaged_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 65,
+						"y": 178,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_damaged_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 192,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_prisoner_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 70,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 53
+					},
+					"frame": {
+						"x": 48,
+						"y": 251,
+						"w": 66,
+						"h": 53
+					}
+				},
+				{
+					"filename": "shieldman_scared_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 265,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_prisoner_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 70,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 53
+					},
+					"frame": {
+						"x": 48,
+						"y": 306,
+						"w": 66,
+						"h": 53
+					}
+				},
+				{
+					"filename": "shieldman_scared_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 338,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_walk_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 34,
+						"w": 45,
+						"h": 71
+					},
+					"frame": {
+						"x": 48,
+						"y": 361,
+						"w": 45,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_block_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 34,
+						"w": 40,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 40,
+						"h": 71
+					}
+				},
+				{
+					"filename": "tornHead1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 95,
+						"y": 361,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "shieldman_block_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 34,
+						"w": 40,
+						"h": 71
+					},
+					"frame": {
+						"x": 43,
+						"y": 434,
+						"w": 40,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_idle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 37,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 484,
+						"w": 37,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 37,
+						"h": 71
+					},
+					"frame": {
+						"x": 85,
+						"y": 434,
+						"w": 37,
+						"h": 71
+					}
+				},
+				{
+					"filename": "shieldman_dead_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 79,
+						"w": 59,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 557,
+						"w": 59,
+						"h": 27
+					}
+				},
+				{
+					"filename": "shieldman_dead_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 79,
+						"w": 59,
+						"h": 27
+					},
+					"frame": {
+						"x": 40,
+						"y": 507,
+						"w": 59,
+						"h": 27
+					}
+				},
+				{
+					"filename": "shieldman_devoured_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 79,
+						"w": 59,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 586,
+						"w": 59,
+						"h": 27
+					}
+				},
+				{
+					"filename": "shieldman_devoured_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 79,
+						"w": 59,
+						"h": 27
+					},
+					"frame": {
+						"x": 62,
+						"y": 536,
+						"w": 59,
+						"h": 27
+					}
+				},
+				{
+					"filename": "shieldman_devouring_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 35
+					},
+					"frame": {
+						"x": 62,
+						"y": 565,
+						"w": 39,
+						"h": 35
+					}
+				},
+				{
+					"filename": "shieldman_unconscious_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 84,
+						"w": 55,
+						"h": 22
+					},
+					"frame": {
+						"x": 62,
+						"y": 602,
+						"w": 55,
+						"h": 22
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:418e1749559828a79ea67967222585f4:73e3e42257e4c921694f2a05941538bf:838054e8cba0c84edb98f81657bdde6f$"
+	}
+}

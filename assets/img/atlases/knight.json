@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "knight.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1630,
+				"h": 101
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "knight_strike_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 22,
+						"w": 136,
+						"h": 91
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 136,
+						"h": 91
+					}
+				},
+				{
+					"filename": "knight_fall_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 30,
+						"w": 121,
+						"h": 84
+					},
+					"frame": {
+						"x": 139,
+						"y": 1,
+						"w": 121,
+						"h": 84
+					}
+				},
+				{
+					"filename": "knight_scared_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 107,
+						"h": 96
+					},
+					"frame": {
+						"x": 262,
+						"y": 1,
+						"w": 107,
+						"h": 96
+					}
+				},
+				{
+					"filename": "knight_scared_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 107,
+						"h": 96
+					},
+					"frame": {
+						"x": 371,
+						"y": 1,
+						"w": 107,
+						"h": 96
+					}
+				},
+				{
+					"filename": "knight_damaged_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 100,
+						"h": 98
+					},
+					"frame": {
+						"x": 480,
+						"y": 1,
+						"w": 100,
+						"h": 98
+					}
+				},
+				{
+					"filename": "knight_damaged_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 100,
+						"h": 98
+					},
+					"frame": {
+						"x": 582,
+						"y": 1,
+						"w": 100,
+						"h": 98
+					}
+				},
+				{
+					"filename": "knight_fall_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 44,
+						"w": 116,
+						"h": 70
+					},
+					"frame": {
+						"x": 684,
+						"y": 1,
+						"w": 116,
+						"h": 70
+					}
+				},
+				{
+					"filename": "knight_strike_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 94,
+						"h": 90
+					},
+					"frame": {
+						"x": 802,
+						"y": 1,
+						"w": 94,
+						"h": 90
+					}
+				},
+				{
+					"filename": "knight_block_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 90,
+						"h": 86
+					},
+					"frame": {
+						"x": 898,
+						"y": 1,
+						"w": 90,
+						"h": 86
+					}
+				},
+				{
+					"filename": "knight_block_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 90,
+						"h": 86
+					},
+					"frame": {
+						"x": 990,
+						"y": 1,
+						"w": 90,
+						"h": 86
+					}
+				},
+				{
+					"filename": "knight_walk_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 18,
+						"w": 84,
+						"h": 98
+					},
+					"frame": {
+						"x": 1082,
+						"y": 1,
+						"w": 84,
+						"h": 98
+					}
+				},
+				{
+					"filename": "knight_walk_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 23,
+						"w": 83,
+						"h": 92
+					},
+					"frame": {
+						"x": 1168,
+						"y": 1,
+						"w": 83,
+						"h": 92
+					}
+				},
+				{
+					"filename": "knight_idle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 74,
+						"h": 99
+					},
+					"frame": {
+						"x": 1253,
+						"y": 1,
+						"w": 74,
+						"h": 99
+					}
+				},
+				{
+					"filename": "knight_idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 74,
+						"h": 99
+					},
+					"frame": {
+						"x": 1329,
+						"y": 1,
+						"w": 74,
+						"h": 99
+					}
+				},
+				{
+					"filename": "knight_dead_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 70,
+						"w": 98,
+						"h": 48
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1,
+						"w": 98,
+						"h": 48
+					}
+				},
+				{
+					"filename": "knight_dead_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 70,
+						"w": 98,
+						"h": 48
+					},
+					"frame": {
+						"x": 1405,
+						"y": 51,
+						"w": 98,
+						"h": 48
+					}
+				},
+				{
+					"filename": "knight_devoured_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"frame": {
+						"x": 1505,
+						"y": 1,
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "knight_devoured_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1,
+						"w": 61,
+						"h": 60
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f6448fafe017e0950d8460b592aa1a2d:a6adb05740125ec0125abc3c09803ef9:775abec68cea152a8c833d779d2191cb$"
+	}
+}
